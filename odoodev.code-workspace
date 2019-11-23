@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	]
+	,"settings":
+	{
+		
+		"python.pythonPath": "C:\\Users\\Soeren\\Envs\\odoo-env\\Scripts\\Python.exe",
+	
+
+		"python.autoComplete.extraPaths": [
+		"${workspaceRoot}/12.0/odoo",
+		"${workspaceRoot}/12.0/odoo/addons",
+		"${workspaceRoot}/12.0/odoo/odoo/addons",
+		],
+
+		"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+
+		"python.venvPath": "C:\\Users\\Soeren\\Envs\\",
+		
+		"python.linting.enabled": true
+	
+
+		}
+}
