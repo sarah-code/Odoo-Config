@@ -14,6 +14,7 @@ Odoo can be cloned via git scm package to virtually every location of your hardd
 Get Odoo to run:
 1. Clone the files from this repository into the folder around the installation folder "Odoo". If you copied Odoo into a folder called C:\odoo-dev\13.0, your installationfolder would be in C:\odoo-dev\13.0\odoo. In this case, please copy the set of files into 13.0 to avoid an overwrite during a fetch operation. Please execute git clone https://github.com/Odoo-Config-Win. Please change the the name of the vscode folder into .vscode, as vscode saves settings there, like where to create a Virtual Env.
 2. Save the entire working folder 13.0 as a workspace in Vscode.
-3. Try
+3. Install virtualenv via python pip. This will be later your environnement executing odoo in a safe environment.
+4. 
 
 (T2B)
