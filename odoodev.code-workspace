@@ -7,18 +7,18 @@
 	,"settings":
 	{
 		
-		"python.pythonPath": "C:\\Users\\Soeren\\Envs\\odoo-env\\Scripts\\Python.exe",
+		"python.pythonPath": "~/envs/odoodev/bin/python3",
 	
 
 		"python.autoComplete.extraPaths": [
-		"${workspaceRoot}/12.0/odoo",
-		"${workspaceRoot}/12.0/odoo/addons",
-		"${workspaceRoot}/12.0/odoo/odoo/addons",
+		"${workspaceRoot}/odoo",
+		"${workspaceRoot}/odoo/addons",
+		"${workspaceRoot}/odoo/odoo/addons",
 		],
 
-		"terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+		"terminal.integrated.shell.linux": "$SHELL",
 
-		"python.venvPath": "C:\\Users\\Soeren\\Envs\\",
+		"python.venvPath": "~/envs/",
 		
 		"python.linting.enabled": true
 	
